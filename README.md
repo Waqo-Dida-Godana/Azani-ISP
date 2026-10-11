@@ -112,4 +112,4 @@ The case study proposes a Microsoft Access DBMS with the following capabilities:
 ### Feasibility and justification
 The proposed system provides centralized data storage, automatic calculations, referential integrity, comprehensive reporting, and user authentication, at a lower long-term cost than the current manual approach.
 
-> **Implementation note:** The case study describes a Microsoft Access proposal; this repository implements the Azani workflow as a Laravel and MySQL web application. In this implementation, overdue fines are processed after month-end and disconnection occurs after the 10th of the following month, as described in the monthly-cycle rules above.
+
